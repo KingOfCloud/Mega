@@ -7,4 +7,12 @@ public class Sample1 {
 
 		//System.out.println("Hello");
 	}
+
+
+	private void meth1() {
+		System.out.println("World");
+}
+
+
+
 }
